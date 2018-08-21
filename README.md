@@ -1,6 +1,7 @@
 # Control Interface for wpa_supplicant in Go
 
-![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)
+[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/dangerousHobo/wpasupplicant/blob/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dangerousHobo/wpasupplicant)](https://goreportcard.com/report/github.com/dangerousHobo/wpasupplicant)
 
 Package wpasupplicant provides a control interface to a wpa_supplicant process.
 
